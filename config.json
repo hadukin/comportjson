@@ -1,5 +1,20 @@
 {
-  "version": "1.0.1",
-  "build": 4,
-  "url": "https://github.com/hadukin/comportjson/raw/refs/heads/main/archive/installer.exe"
+  "appName": "ComportScan",
+  "description": "This is my app description",
+  "items": [
+    {
+      "version": "1.0.1",
+      "shortVersion": 4,
+      "changes": [
+        {
+          "type": "chore",
+          "message": "Fix bug #1"
+        }
+      ],
+      "date": "2025-01-10",
+      "mandatory": true,
+      "url": "https://github.com/hadukin/comportjson/raw/refs/heads/main/archive/ComportScan-x86_64-1.0.0+3-Installer.exe",
+      "platform": "windows"
+    }
+  ]
 }
