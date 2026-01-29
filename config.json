@@ -1,12 +1,4 @@
 {
-  "version": "1.0.1",
-  "build": 4,
-  "url": "https://raw.githubusercontent.com/hadukin/comportjson/refs/heads/main/archive/ComportScan-x86_64-1.0.1+4-Installer.exe",
-  "windows": {
-    "version": "1.0.1",
-    "build": 4,
-    "url": "https://raw.githubusercontent.com/hadukin/comportjson/refs/heads/main/archive/ComportScan-x86_64-1.0.1+4-Installer.exe"
-  },
   "appName": "ComportScan",
   "description": "This is my app description",
   "items": [
@@ -42,7 +34,7 @@
       ],
       "date": "2025-01-10",
       "mandatory": true,
-      "url": "https://github.com/hadukin/comportjson/raw/refs/heads/main/archive/ComportScan-x86_64-1.0.0+3-Installer.dmg",
+      "url": "https://raw.githubusercontent.com/hadukin/comportjson/refs/heads/main/archive/ComportScan-x86_64-1.0.1+4-Installer.exe",
       "platform": "macos"
     }
   ]
