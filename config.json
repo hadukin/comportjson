@@ -3,8 +3,8 @@
   "description": "This is my app description",
   "items": [
     {
-      "version": "1.0.3",
-      "shortVersion": 6,
+      "version": "1.0.6",
+      "shortVersion": 9,
       "changes": [
         {
           "type": "chore",
@@ -13,7 +13,7 @@
       ],
       "date": "2025-01-10",
       "mandatory": true,
-      "url": "https://raw.githubusercontent.com/hadukin/comportjson/refs/heads/main/archive/ComportScan-x86_64-1.0.3+6-Installer.exe",
+      "url": "https://raw.githubusercontent.com/hadukin/comportjson/refs/heads/main/archive/ComportScan-x86_64-1.0.6+9-Installer.exe",
       "platform": "windows"
     },
     {
