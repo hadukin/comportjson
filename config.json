@@ -17,8 +17,8 @@
       "platform": "windows"
     },
     {
-      "version": "1.0.1",
-      "shortVersion": 4,
+      "version": "1.0.3",
+      "shortVersion": 6,
       "changes": [
         {
           "type": "chore",
@@ -34,7 +34,7 @@
       ],
       "date": "2025-01-10",
       "mandatory": true,
-      "url": "https://raw.githubusercontent.com/hadukin/comportjson/refs/heads/main/archive/ComportScan-x86_64-1.0.1+4-Installer.exe",
+      "url": "https://raw.githubusercontent.com/hadukin/comportjson/refs/heads/main/archive/ComportScan-x86_64-1.0.3+6-Installer.exe",
       "platform": "macos"
     }
   ]
